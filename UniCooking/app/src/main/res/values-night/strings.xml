@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="my_ingredients">My Ingredients</string>
+    <string name="add">Add</string>
+    <string name="selected_ingredients">Selected Ingredients:</string>
+    <string name="enter_ingredient">Enter ingredient</string>
+    <string name="delete_selected_ingredients">Clear</string>
+    <string name="get_started">Get Started</string>
+    <string name="search">Search</string>
+    <string name="recipe_placeholder">Recipe Placeholder</string>
+    <string name="recipes_title">Recipes</string>
+    <string name="recipes_scrollview_content_description" />
+</resources>

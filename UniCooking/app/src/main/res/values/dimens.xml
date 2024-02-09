@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="checkbox_margin">8dp</dimen>
+    <dimen name="checkbox_border_width">2dp</dimen>
+    <dimen name="recipe_margin">16dp</dimen>
+</resources>
