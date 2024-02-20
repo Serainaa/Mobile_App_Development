@@ -8,6 +8,6 @@ This repository contains the content for the lesson on mobile applications devel
 - Utilize appropriate integrated development environments (e.g., Android Studio) for the development of mobile applications.
 - Evaluate mobile applications.
 
-## Lesson Project
+## Final Project
 
-The project is an app about cooking. The user selects the ingredients he or she has and then a list of recipes is shown.
+The project is an application about cooking. The user selects the available ingredients and then a list of recipes is shown.
